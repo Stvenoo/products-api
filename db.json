@@ -1,0 +1,190 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Incredible Plastic Shirt",
+      "price": "405.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 1,
+      "name": "Sleek Rubber Chair",
+      "price": "660.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 2,
+      "name": "Generic Rubber Soap",
+      "price": "853.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 3,
+      "name": "Rustic Granite Soap",
+      "price": "969.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 4,
+      "name": "Licensed Rubber Hat",
+      "price": "925.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 5,
+      "name": "Licensed Steel Keyboard",
+      "price": "149.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 6,
+      "name": "Refined Rubber Ball",
+      "price": "868.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 7,
+      "name": "Unbranded Wooden Salad",
+      "price": "41.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 8,
+      "name": "Refined Metal Pants",
+      "price": "530.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 9,
+      "name": "Unbranded Frozen Fish",
+      "price": "665.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 10,
+      "name": "Unbranded Wooden Shirt",
+      "price": "163.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 11,
+      "name": "Handcrafted Wooden Sausages",
+      "price": "451.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 12,
+      "name": "Unbranded Rubber Pizza",
+      "price": "81.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 13,
+      "name": "Unbranded Fresh Ball",
+      "price": "41.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 14,
+      "name": "Awesome Plastic Cheese",
+      "price": "731.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 15,
+      "name": "Sleek Granite Soap",
+      "price": "339.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 16,
+      "name": "Generic Wooden Chicken",
+      "price": "306.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 17,
+      "name": "Gorgeous Concrete Chair",
+      "price": "781.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 18,
+      "name": "Rustic Metal Mouse",
+      "price": "819.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 19,
+      "name": "Sleek Plastic Sausages",
+      "price": "20.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 20,
+      "name": "Rustic Soft Chicken",
+      "price": "398.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 21,
+      "name": "Generic Wooden Tuna",
+      "price": "953.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 22,
+      "name": "Practical Rubber Pizza",
+      "price": "591.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 23,
+      "name": "Unbranded Fresh Towels",
+      "price": "515.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 24,
+      "name": "Generic Metal Fish",
+      "price": "888.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 25,
+      "name": "Small Frozen Soap",
+      "price": "483.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 26,
+      "name": "Unbranded Metal Towels",
+      "price": "135.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 27,
+      "name": "Unbranded Wooden Car",
+      "price": "758.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 28,
+      "name": "Licensed Fresh Gloves",
+      "price": "595.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 29,
+      "name": "Incredible Plastic Car",
+      "price": "76.00",
+      "image": "https://picsum.photos/100"
+    },
+    {
+      "id": 30,
+      "name": "Rustic Steel Gloves",
+      "price": "333.00",
+      "image": "https://picsum.photos/100"
+    }
+  ]
+}

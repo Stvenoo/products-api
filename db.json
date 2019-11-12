@@ -155,36 +155,6 @@
       "name": "Small Frozen Soap",
       "price": "483.00",
       "image": "https://picsum.photos/100"
-    },
-    {
-      "id": 26,
-      "name": "Unbranded Metal Towels",
-      "price": "135.00",
-      "image": "https://picsum.photos/100"
-    },
-    {
-      "id": 27,
-      "name": "Unbranded Wooden Car",
-      "price": "758.00",
-      "image": "https://picsum.photos/100"
-    },
-    {
-      "id": 28,
-      "name": "Licensed Fresh Gloves",
-      "price": "595.00",
-      "image": "https://picsum.photos/100"
-    },
-    {
-      "id": 29,
-      "name": "Incredible Plastic Car",
-      "price": "76.00",
-      "image": "https://picsum.photos/100"
-    },
-    {
-      "id": 30,
-      "name": "Rustic Steel Gloves",
-      "price": "333.00",
-      "image": "https://picsum.photos/100"
     }
   ]
 }
